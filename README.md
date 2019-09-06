@@ -39,7 +39,7 @@ Educational History and Future Plans
  If life gets in the way like it usually
  does, I have a plan for staying involved
  within the IT community. My perfect plan
- would to work for a game developer or   
+ would be to work for a game developer or
  publishing company for video games,     
  that way I continue to do the things    
  I love. Video gaming, Esports and IT.   
