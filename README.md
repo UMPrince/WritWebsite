@@ -9,25 +9,25 @@ Even though I have a deep passion for video gaming, I still strive to be the bes
 
 Educational History and Future Plans                                              
 -----------------------------------------
- ### College:                             
+### College:                             
  - Northwest Community College           
  - University of Mississippi             
                                          
                                          
- ### HighSchool:                         
+### HighSchool:                         
  - Manchester Academy                    
                                           
- ### Honor Societies:                    
+### Honor Societies:                    
  - Phi Theta Kappa                       
  - Gamma Beta Phi                        
                                          
- ### Field of Study:                     
+### Field of Study:                     
  - General Studies:                      
  - Computer Science                      
  - Digital Media                         
  - Professional Writing                  
                                          
- ### Future Plans:                       
+### Future Plans:                       
  I currently plan on staying involved    
  in Collegiate Esports by continuing     
  to work for the University and          
@@ -46,7 +46,7 @@ Educational History and Future Plans
  
  Skills 
 -----------------------------------------
- ### Computer Languages:
+### Computer Languages:
   - Java
   - JavaScript
   - C++
@@ -54,13 +54,13 @@ Educational History and Future Plans
   - Markdown
   - Shell
   
- ### Information Technology:
+### Information Technology:
  - Networking
  - Hardware troubleshooting
  - Software troubleshooting
  - Writing scripts
  
- ### Social:
+### Social:
  - Communicates well with others
  - Teamplayer
  - Desire to teach people new things
@@ -68,7 +68,7 @@ Educational History and Future Plans
  - Team management and leadership
  
  
- ### Work Ethic:
+### Work Ethic:
  - Work comes first
  - Early and on time
  - Respectful towards authority
