@@ -9,6 +9,7 @@ Even though I have a deep passion for video gaming, I still strive to be the bes
 
 Educational History and Future Plans                                              
 -----------------------------------------
+
 ### College:                             
  - Northwest Community College           
  - University of Mississippi             
@@ -46,6 +47,7 @@ Educational History and Future Plans
  
  Skills 
 -----------------------------------------
+
 ### Computer Languages:
   - Java
   - JavaScript
@@ -78,12 +80,14 @@ Educational History and Future Plans
                                          
   Work History                            
 -----------------------------------------
+
  - My Michelles catering                 
  - University of Mississippi Athletics   
    Information Technology Technician     
                                          
  Goals and Objectives
 -----------------------------------------
+
 - Strive to find the most efficient and
   effective way possible to achieve a
   task
