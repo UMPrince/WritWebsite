@@ -28,15 +28,13 @@ Educational History and Future Plans
  - Professional Writing                  
  
 ### Future Plans:                       
- I currently plan on staying involved    
- in Collegiate Esports by continuing     
- to work for the University and          
- working towards obtaining a directors   
- role within the program and later       
- moving on to the professional Esports   
- scene.                                  
-                                         
- If life gets in the way like it usually
+ I currently plan on staying involved 
+ in Collegiate Esports by continuing 
+ to work for the University and 
+ working towards obtaining a directors 
+ role within the program and later 
+ moving on to the professional Esports 
+ scene. If life gets in the way like it usually
  does, I have a plan for staying involved
  within the IT community. My perfect plan
  would be to work for a game developer or
