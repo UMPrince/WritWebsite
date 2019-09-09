@@ -98,3 +98,8 @@ Educational History and Future Plans
   the fields I currently reside
 - To provide the best possible enviroment
   for myself and others
+
+ Contact Information
+ ------------------------------------------
+ - Phone: 662-571-8323
+ - Email: saturne2@go.olemiss.edu
